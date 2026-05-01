@@ -1,0 +1,7 @@
+metric,value
+orders_rows_before_join,99441
+orders_rows_after_join,99441
+unique_orders_after_join,99441
+duplicated_orders_after_join,0
+orders_without_items,775
+orders_without_payments,1

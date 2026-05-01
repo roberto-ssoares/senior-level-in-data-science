@@ -1,0 +1,10 @@
+dataset,total_rows,total_columns,columns_with_nulls,total_null_values,max_null_pct,duplicated_rows
+geolocation,1000163,5,0,0,0.0,261831
+order_items,112650,7,0,0,0.0,0
+order_payments,103886,5,0,0,0.0,0
+orders,99441,8,3,4908,2.98,0
+customers,99441,5,0,0,0.0,0
+order_reviews,99224,7,2,145903,88.34,0
+products,32951,9,8,2448,1.85,0
+sellers,3095,4,0,0,0.0,0
+category_translation,71,2,0,0,0.0,0

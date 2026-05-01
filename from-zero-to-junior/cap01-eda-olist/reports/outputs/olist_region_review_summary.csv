@@ -1,0 +1,6 @@
+customer_region,orders,avg_review_score,median_review_score,avg_delivery_days,avg_freight,delayed_orders,delivered_orders,delay_pct_among_delivered
+Sul,14071,4.14,5.0,13.52,24.43,799,13746,5.81
+Sudeste,67719,4.11,5.0,10.25,19.85,3953,65736,6.01
+Centro-Oeste,5748,4.07,5.0,14.53,26.49,361,5594,6.45
+Norte,1833,3.96,5.0,22.06,41.32,148,1779,8.32
+Nordeste,9302,3.9,5.0,19.46,35.92,1121,8975,12.49

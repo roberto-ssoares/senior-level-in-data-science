@@ -1,0 +1,14 @@
+dataset,column_name,dtype,null_count,null_pct,unique_values,unique_pct
+order_reviews,review_comment_title,str,87656,88.34,4527,4.56
+order_reviews,review_comment_message,str,58247,58.7,36159,36.44
+orders,order_delivered_customer_date,str,2965,2.98,95664,96.2
+products,product_category_name,str,610,1.85,73,0.22
+products,product_name_lenght,float64,610,1.85,66,0.2
+products,product_description_lenght,float64,610,1.85,2960,8.98
+products,product_photos_qty,float64,610,1.85,19,0.06
+orders,order_delivered_carrier_date,str,1783,1.79,81018,81.47
+orders,order_approved_at,str,160,0.16,90733,91.24
+products,product_weight_g,float64,2,0.01,2204,6.69
+products,product_length_cm,float64,2,0.01,99,0.3
+products,product_height_cm,float64,2,0.01,102,0.31
+products,product_width_cm,float64,2,0.01,95,0.29

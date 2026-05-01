@@ -1,0 +1,7 @@
+priority,area,recommendation,rationale,expected_impact
+Alta,Logística,"Monitorar atraso por estado, região, vendedor e categoria.",Atrasos podem reduzir a satisfação do cliente e impactar avaliações.,Redução de avaliações negativas e melhoria da experiência de compra.
+Alta,Experiência do Cliente,Criar alerta para pedidos com prazo de entrega longo ou risco de atraso.,Comunicação proativa pode reduzir frustração e melhorar percepção do serviço.,Melhor relacionamento com cliente e redução de reclamações.
+Média,Comercial,Priorizar categorias com alto GMV e bom volume de pedidos.,Categorias líderes sustentam parte relevante da receita do marketplace.,Maior eficiência em campanhas e sortimento de produtos.
+Média,Frete,Investigar categorias e regiões com frete proporcionalmente elevado.,Frete alto pode prejudicar conversão e satisfação do cliente.,Otimização de custos logísticos e melhora na competitividade.
+Média,Geografia,Avaliar oportunidades de crescimento em estados com baixa participação.,Regiões menos representadas podem indicar mercados ainda pouco explorados.,Expansão comercial e diversificação da demanda.
+Baixa,Dados,Criar uma camada Gold com tabelas analíticas versionadas.,"A organização das bases facilita reuso em SQL, Power BI, PySpark e projetos futuros.",Maior reprodutibilidade e maturidade analítica do projeto.

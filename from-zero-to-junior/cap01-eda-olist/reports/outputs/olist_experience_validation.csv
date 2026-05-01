@@ -1,0 +1,8 @@
+metric,value
+orders_before_join,99441.0
+orders_after_join,99441.0
+unique_orders_after_join,99441.0
+duplicated_orders_after_join,0.0
+orders_with_review,98673.0
+orders_without_review,768.0
+review_coverage_pct,99.23

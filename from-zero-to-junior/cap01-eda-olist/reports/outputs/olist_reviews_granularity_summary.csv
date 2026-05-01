@@ -1,0 +1,6 @@
+metric,value
+review_rows,99224
+unique_review_ids,98410
+unique_orders_with_review,98673
+duplicated_review_ids,814
+orders_with_more_than_one_review,547

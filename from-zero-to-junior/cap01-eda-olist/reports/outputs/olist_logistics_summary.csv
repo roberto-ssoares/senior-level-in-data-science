@@ -1,0 +1,9 @@
+metric,value
+total_orders,99441.0
+orders_with_delivery_date,96476.0
+delayed_orders,6535.0
+delayed_orders_pct,6.57
+avg_delivery_days,12.09
+median_delivery_days,10.0
+avg_delay_days,-11.88
+median_delay_days,-12.0

@@ -1,0 +1,4 @@
+dataset,rows,unique_orders,rows_per_order_avg
+orders_enriched,99441,99441,1.0
+order_items,112650,98666,1.14
+order_payments,103886,99440,1.04

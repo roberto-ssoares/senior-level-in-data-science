@@ -1,0 +1,3 @@
+is_delayed,orders,avg_review_score,median_review_score,avg_delivery_days,avg_delay_days,avg_freight,avg_order_gmv,delay_status
+0.0,89448,4.29,5.0,10.53,-13.51,22.59,135.9,Entregue no prazo ou antes
+1.0,6382,2.27,1.0,33.36,10.52,25.15,149.39,Entregue com atraso

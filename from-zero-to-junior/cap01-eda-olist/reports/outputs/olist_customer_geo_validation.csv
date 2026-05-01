@@ -1,0 +1,9 @@
+metric,value
+orders_before_join,99441
+orders_after_join,99441
+unique_orders_after_join,99441
+duplicated_orders_after_join,0
+orders_without_customer_state,0
+orders_without_customer_city,0
+unique_customer_ids,99441
+unique_customer_unique_ids,96096

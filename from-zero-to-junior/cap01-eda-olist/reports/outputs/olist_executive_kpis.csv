@@ -1,0 +1,26 @@
+kpi,value
+Período inicial da base,2016-09-04 21:15:19
+Período final da base,2018-10-17 17:30:18
+Total de pedidos,99441
+Total de clientes únicos,96096
+GMV total dos produtos,13591643.7
+Frete total,2251909.54
+Valor total pago,16008872.12
+Ticket médio de produtos por pedido,137.75
+Frete médio por pedido,22.82
+Frete sobre GMV,16.57
+Pedidos com avaliação,98673
+Cobertura de avaliações,99.23
+Nota média de avaliação,4.09
+Avaliações negativas,14449
+Percentual de avaliações negativas,14.64
+Pedidos entregues,96476
+Pedidos entregues com atraso,6535
+Percentual de atraso entre entregues,6.77
+Prazo médio de entrega,12.09
+Principal categoria por GMV,health_beauty
+GMV da principal categoria,1258681.34
+Principal estado por pedidos,SP
+Pedidos no principal estado,41746
+Principal método de pagamento,credit_card
+Valor pago no principal método,12542084.19

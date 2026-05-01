@@ -1,0 +1,8 @@
+dimension,insight,business_reading
+Comercial,"O marketplace registrou 99,441 pedidos, com GMV total de R$ 13,591,643.70.","A base possui volume suficiente para análises comerciais, temporais, geográficas e de experiência do cliente."
+Frete,O frete total representou 16.57% do GMV dos produtos.,"A participação do frete deve ser monitorada, pois pode afetar margem, conversão e percepção de valor pelo cliente."
+Logística,6.77% dos pedidos entregues foram entregues após a data estimada.,Atrasos de entrega podem impactar diretamente a satisfação e a avaliação dos clientes.
+Experiência,A nota média geral de avaliação foi 4.09.,"A nota média ajuda a medir a percepção geral do cliente, mas deve ser analisada junto com atraso, prazo e frete."
+Produtos,"A categoria com maior GMV foi 'health_beauty', com R$ 1,258,681.34.","Categorias líderes podem orientar campanhas, gestão de estoque, estratégia de vendedores e priorização comercial."
+Geografia,"O estado com maior volume de pedidos foi SP, com 41,746 pedidos.",A concentração regional pode indicar mercados consolidados e também oportunidades de expansão em regiões menos exploradas.
+Pagamentos,O método de pagamento com maior valor transacionado foi 'credit_card'.,"O comportamento de pagamento pode apoiar decisões sobre meios de pagamento, parcelamento, campanhas e experiência de checkout."

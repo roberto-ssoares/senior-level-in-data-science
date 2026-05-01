@@ -1,0 +1,7 @@
+metric,value
+total_orders,99441.0
+orders_with_delivery_date,96476.0
+orders_without_delivery_date,2965.0
+delivered_on_time_or_early,89941.0
+delivered_late,6535.0
+delivered_late_pct_among_delivered,6.77

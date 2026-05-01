@@ -1,0 +1,12 @@
+metric,value
+total_orders,99441.0
+orders_with_items,98666.0
+orders_with_payments,99440.0
+total_items_gmv,13591643.7
+total_freight,2251909.54
+total_commercial_value,15843553.24
+total_payment_value,16008872.12
+avg_order_gmv,137.75
+median_order_gmv,86.9
+avg_freight_per_order,22.82
+freight_pct_over_gmv,16.57
